@@ -37,4 +37,4 @@ summary(Diamond.file)
 Diamond.file[,4,5,6,7,8]=as.factor(factor(Diamond.file[,4,5,6,7,8]))
 summary(Diamond.file)
 
-
+fadfasdfagdfasdf
